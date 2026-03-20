@@ -32,7 +32,7 @@
 /* Material Symbols Styling */
 .material-symbols-outlined {
   font-family: var(--icon-font);
-  font-weight: normal;
+  font-weight: 200;
   font-style: normal;
   display: inline-block;
   white-space: nowrap;
