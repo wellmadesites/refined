@@ -679,7 +679,7 @@ letter-spacing: var(--heading-font-letter-spacing);
 
 /* Horizontal Line Block */
 .sqs-block-horizontalrule hr {
- height: 0.15rem; 
+ height: var(--underline) !important; 
  vertical-align: middle;
  margin-right: 0.8rem;
 }
